@@ -25,6 +25,6 @@
 **Tunelo** empowers users to build robust, secure, and efficient virtual networks that bridge the gap between physical locations, simplifying remote communication and collaboration.
 
 ## Repos
-- Main product: https://github.com/tunelo/tunelo
+- Main product & Configuration guide: https://github.com/tunelo/tunelo
 - SUDP protocol: https://github.com/tunelo/sudp
 - UTUN/TUN config: https://github.com/tunelo/utun
